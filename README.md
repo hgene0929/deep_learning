@@ -6,5 +6,5 @@
     - Language : Python 3.7.9
     - Libraries : 
         - tensorflow 2.10.0
-        - OpenCv(설치이전)
+        - OpenCv 4.6.0
         - Beautifulsoup
