@@ -7,3 +7,4 @@
     - Libraries : 
         - tensorflow 2.10.0
         - OpenCv(설치이전)
+        - Beautifulsoup
